@@ -5,6 +5,14 @@ body {
   font-family:'Tahoma';
   font-size:12px;
 }
+.#nav-bar-cont {
+  background-color:transparent!;
+  position:fixed;
+  top:-50px;
+  width:100%;
+  transition: top 0.3s;
+}
+
 #container {
   margin: 0 auto;
   padding: 50px;
