@@ -14,19 +14,14 @@ body {
   padding:20px;
 }
 #box-cont {
-  position:absolute;
-  top:0;
-  bottom:0;
   background-color:#e3e3e3;
-  display:inline-block;
-  width:50%;
 }
   
 .inner-left {
-  z-index:10;
-  position:static;
+  float:left;
+  width:50%;
 }
 .inner-right {
-  z-index:10;
-  position:static;
+  float:right;
+  width:50%;
 }
