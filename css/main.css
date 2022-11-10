@@ -2,6 +2,14 @@
 
 body {
   background-color:#fff;
-  font-style:'Tahoma';
+  font-family:'Tahoma';
   font-size:12px;
+}
+#container {
+  margin: 0 auto;
+  padding: 50px;
+}
+.inner-cont {
+  background-color:#e1e1e1;
+  padding:20px;
 }
