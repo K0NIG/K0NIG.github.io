@@ -5,7 +5,7 @@ body {
   font-family:'Tahoma';
   font-size:12px;
 }
-.#nav-bar-cont {
+#nav-bar-cont {
   background-color:transparent!;
   position:fixed;
   top:-50px;
