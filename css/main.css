@@ -29,6 +29,8 @@ body {
 }
   
 .grid-left {
+  border: 5px solid #5e5e5e;
 }
 .grid-right {
+  border: 5px solid #5e5e5e;
 }
