@@ -1,25 +1,27 @@
 /* The CSS file for the index page. */
 
 body {
-  background-color:#c3c3c3;
+  background-color:#f1f1f1;
   font-family:'Tahoma';
   font-size:12px;
 }
-#nav-bar-cont {
-  background-color:transparent!;
-  position:fixed;
-  top:-50px;
-  width:100%;
-  transition: top 0.3s;
+h1 {
+  text-transform:uppercase;
+  font-family:'Tahoma';
+    letter-spacing:.rem;
 }
-
 #container {
   margin: 0 auto;
-  padding: 50px;
+}
+.desc {
+  width:30%;
+  text-align:justify;
+  margin:0 auto;
 }
 .inner-cont {
-  background-color:#e1e1e1;
-  padding:20px;
+  padding:100px;
+  margin:0 auto;
+  text-align:center;
 }
 #grid-cont {
   position:absolute;
@@ -33,11 +35,11 @@ body {
 }
   
 .grid-left {
-  padding:10px;
+  padding:30px;
 }
 .grid-center {
-  padding:10px;
+  padding:30px;
 }
 .grid-right {
-  padding:10px;
+  padding:30px;
 }
