@@ -16,17 +16,14 @@ body {
 .box-cont {
   background-color:#e3e3e3;
   display:inline-block;
+  width:50%;
 }
   
 .inner-left {
   z-index:10;
   position:static;
-  left:0;
-  top:0;
 }
 .inner-right {
   z-index:10;
   position:static;
-  right:0;
-  top:0;
 }
