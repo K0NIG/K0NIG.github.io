@@ -27,16 +27,17 @@ body {
   left:0;
   right:0;
   display:grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   grid-gap:20px;
   background-color:#c1c1c1;
 }
   
 .grid-left {
-  border: 5px solid #5e5e5e;
+  padding:10px;
+}
+.grid-center {
   padding:10px;
 }
 .grid-right {
-  border: 5px solid #5e5e5e;
   padding:10px;
 }
