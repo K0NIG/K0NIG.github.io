@@ -1,7 +1,7 @@
 /* The CSS file for the index page. */
 
 body {
-  background-color:#fff;
+  background-color:#1b1b1b;
   font-family:'Tahoma';
   font-size:12px;
 }
@@ -17,7 +17,7 @@ body {
   display:grid;
   grid-template-columns: 1fr 1fr;
   grid-gap:20px;
-  background-color:#e3e3e3;
+  background-color:#c1c1c1;
 }
   
 .grid-left {
